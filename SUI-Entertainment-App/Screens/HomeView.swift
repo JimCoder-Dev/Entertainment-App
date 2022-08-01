@@ -39,15 +39,7 @@ struct HomeView: View {
                     
             }
             .navigationBarTitle("Entertainment App")
-            .toolbar{
-                ToolbarItem(placement: .navigationBarTrailing){
-                    Button{
-                        print(items.toggleBookmark(item: items.items[0]))
-                    }label: {
-                        Text("Print")
-                    }
-                }
-            }
+           
         }
         
         

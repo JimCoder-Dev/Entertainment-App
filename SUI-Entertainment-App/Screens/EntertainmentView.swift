@@ -11,7 +11,7 @@ struct EntertainmentView: View {
     var body: some View {
         NavigationView {
             
-                ScrollView{
+            ScrollView(showsIndicators: false){
                     LazyVGrid(columns: columns){
                         ForEach(searchResults){ item in
                             EntertainmentRow(item: item)

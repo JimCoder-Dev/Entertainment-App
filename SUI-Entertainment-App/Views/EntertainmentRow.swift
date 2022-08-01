@@ -7,7 +7,7 @@ struct EntertainmentRow: View {
     var body: some View {
      
         ZStack {
-            Spacer()
+
             VStack(alignment: .leading){
                   
                 
@@ -56,8 +56,8 @@ struct EntertainmentRow: View {
                     
                 
                     
-                }.frame(alignment: .center)
-            Spacer()
+                }.frame(alignment: .leading)
+           
         }
       
     }
