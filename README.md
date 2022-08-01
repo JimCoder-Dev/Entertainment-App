@@ -21,7 +21,7 @@ Users should be able to:
 ![Screenshot from SwiftUI Entertainment app](./Screenshots/Home-Page.png "The home screen scroll bar for trending and both TV and Movies")
 ![Screenshot from SwiftUI Entertainment app](./Screenshots/TV-Series.png "The screen that shows all TV Series")
 ![Screenshot from SwiftUI Entertainment app](./Screenshots/Movies-Search.png "The screen that shows all Movies with a look at the search bar feature")
-![Screenshot from SwiftUI Entertainment app](./Screenshots/Bookmark-page.png "The bookmark page")
+![Screenshot from SwiftUI Entertainment app](./Screenshots/Bookmark-Page.png "The bookmark page")
 
 ## My process
 
